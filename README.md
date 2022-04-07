@@ -17,7 +17,8 @@
 ## Com executar
 
 **Avis**
-Abans de executar el programa, cal asignar al menys una clau de Google Search API per habilitar la funció de buscador de imatges. La configuració es realitza en el archiu [`FONT/Utilities/ImageFinder.java`](./FONT/Utilities/ImageFinder.java).
+
+Abans d'executar el programa, caldrà assignar almenys una clau de Google Search API per habilitar la funció de buscador d'imatges. La configuració es realitza en l'arxiu [`FONT/Utilities/ImageFinder.java`](./FONT/Utilities/ImageFinder.java).
 
 **Executar la GUI:**
 ```
