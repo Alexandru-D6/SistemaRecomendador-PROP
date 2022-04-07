@@ -1,10 +1,10 @@
 # Sistema recomanador
 
 ## Membres
-- Pol Rivero Sallent
-- Pablo José Galván Calderón
-- Ferran de la Varga Antoja : [ferranjrr](https://github.com/ferranjrr)
-- Alexandru Dumitru Maroz : [Alexandru-D6](https://github.com/Alexandru-D6)
+- Pol Rivero Sallent : pol.rivero@estudiantat.upc.edu
+- Pablo José Galván Calderón : pablo.jose.galvan@estudiantat.upc.edu
+- Ferran de la Varga Antoja : ferran.de.la.varga@estudiantat.upc.edu
+- Alexandru Dumitru Maroz : alexandru.dumitru@estudiantat.upc.edu
 
 
 ## Documentació
