@@ -1,0 +1,16 @@
+ITEMS=items.csv
+RATINGS=ratings.db.csv
+
+ID_NAME=id
+MAX_RATING=5.0
+USERID=userId
+ITEMID=itemId
+RATING=rating
+
+ALGORITHM=KMeansSlopeOne
+DISTANCE=Euclidean
+
+TITLE=title
+OVERVIEW=overview
+AVGRATING=vote_average
+IMG_URL=poster_path

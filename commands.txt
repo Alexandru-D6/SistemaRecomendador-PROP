@@ -1,0 +1,37 @@
+#######################################
+# Lines starting with '#' are ignored #
+#######################################
+
+# Dataset config file
+Movielens/2250/dataset.info
+# You can also try Movielens/6750, Series/2250, etc.
+
+
+# COMMANDS START HERE
+# Set recommendation algorithm to KNearestNeighbours (not needed, KNN is the default)
+set_algorithm KNN
+
+# Set distance strategy to euclidean (not needed, Euclidean is the default)
+set_distance Euclidean
+
+# Evaluate the model
+evaluate
+
+# Set recommendation algorithm to KMeans+SlopeOne
+set_algorithm KMS1
+
+# The first time that KMS1 is used, it will build the clusters (it will be slower)
+evaluate
+
+# Set distance strategy to manhattan
+set_distance Manhattan
+
+# Evaluate the model again (it will be faster)
+evaluate
+
+echo DONE!
+
+save_data OUTPUT
+
+# Uncomment the following line to exit the program once the commands are executed (otherwise, the driver will continue in interactive mode)
+exit
