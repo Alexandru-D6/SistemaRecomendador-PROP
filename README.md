@@ -1,5 +1,12 @@
 # Sistema recomanador
 
+## Miembros
+- Pol Rivero Sallent
+- Pablo José Galván Calderón
+- Ferran de la Varga Antoja : [ferranjrr](https://github.com/ferranjrr)
+- Alexandru Dumitru Maroz : [Alexandru-D6](https://github.com/Alexandru-D6)
+
+
 ## Documentació
 
 - [`DOC/old/PrimerLliurament.pdf`](./DOC/old/PrimerLliurament.pdf): Casos d'ús, esquema conceptual de les dades i documentació sobre els algorismes KMS1 i KNN.
@@ -8,6 +15,9 @@
 
 
 ## Com executar
+
+**Avis**
+Abans de executar el programa, cal asignar al menys una clau de Google Search API per habilitar la funció de buscador de imatges. La configuració es realitza en el archiu [`FONT/Utilities/ImageFinder.java`](./FONT/Utilities/ImageFinder.java).
 
 **Executar la GUI:**
 ```
