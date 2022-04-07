@@ -1,6 +1,6 @@
 # Sistema recomanador
 
-## Miembros
+## Membres
 - Pol Rivero Sallent
 - Pablo José Galván Calderón
 - Ferran de la Varga Antoja : [ferranjrr](https://github.com/ferranjrr)
